@@ -1,0 +1,75 @@
+ body {
+  background-color: black; 
+  font-color:red;
+ }
+
+ #button{
+      color: red;
+      background-color: white;
+      border-radius: 10px;
+      margin: 20px;
+      margin-top: 20px;
+      font-size: 30px;
+      font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+
+  }
+
+#pause {
+      color: red;
+      background-color: white;
+      border-radius: 10px;
+      margin: 20px;
+      margin-top: 20px;
+      font-size: 30px;
+      font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+
+
+
+}
+  .giphy,
+   .giphyButton
+          {
+    color: red;
+    border-radius: 5px;
+    margin: 11px;
+    border: solid;
+    font-size: 20px;
+    font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
+
+
+  }
+
+  .giphyButton{
+
+  }
+
+  form{
+    margin: 30px; 
+   
+  }
+
+  .formButton{
+    float: center;
+    margin-left: : 10%;
+    background-color: black;
+    border-radius: 20px;
+    padding: 10px;  
+    margin-left: 50px;
+    margin-top: 20px;
+  }
+
+  #images{
+    padding: 10px;
+   
+
+  }
+
+  #button-view{
+    text-align: center; 
+
+  }
+
+  img{
+    width: 200px;
+    height: 200px;
+  }
